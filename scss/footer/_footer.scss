@@ -1,0 +1,73 @@
+ /* FOOTER */
+
+ .seccion-clara {
+   
+    background-color: black;
+}
+
+ .experiencia {
+    padding: 30px;
+
+ }
+ .footer {
+    background-color: black;
+ }
+
+.experiencia .row div {
+    height: 400px;
+    display: block;
+    text-align: center;
+}
+
+.experiencia-titulo {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: $color_texto;
+    text-align: left;
+}
+
+
+.direccion-contacto {
+    font-size: 20px;
+    color: $color_texto;
+    text-align: left;
+}
+
+.redes-sociales {
+    display: flex;
+    text-align: center;
+
+    ins {
+        color: $color_texto;
+    }
+
+    i {
+        margin: 10px;
+        font-size: 2rem;
+        color: $color_texto;
+    }
+    
+    p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    a {
+        color: $color_texto;
+    }
+
+  
+}
+
+.telefono {
+    color: rgb(251, 251, 108);
+
+    i {
+        color: rgb(251, 251, 108);
+    }
+}
+
+.correo-club {
+    color:rgb(251, 251, 108)
+}

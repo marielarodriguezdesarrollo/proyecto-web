@@ -1,0 +1,63 @@
+//FORMULARIO CONTACTO
+
+.formulario {
+    background-color:black;
+    display: flex;
+    justify-content:center;
+    color: $color_texto;
+    padding-top: 2rem;
+    
+    
+ }
+ .contenedor_formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color:black;
+    height: 50rem;
+   
+
+ }
+ .form_soporte {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    color: $color_texto;
+
+        div {
+            display: flex;
+            flex-direction: column;
+            margin: 10px 0px;
+         }
+ }
+ 
+ input {
+    width: 100%;
+    height: 2rem;
+    border-color: yellow;
+ }
+ textarea {
+    width: 100%;
+    border-bottom: yellow;
+ }
+ iframe {
+    width: 100%;
+
+ }
+ .boton {
+    width: 6rem;
+  
+ 
+ }
+
+ .contenedor_mapa {
+    background-color:black;
+    width: 100%;
+    padding-top: 2rem;
+
+    div {
+        width:100%;
+    }
+ }
+

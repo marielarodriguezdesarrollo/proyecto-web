@@ -1,0 +1,83 @@
+/* CARD */
+.card {
+    border: 0px;
+  
+}
+
+
+.col-md-5 {
+    background-color: rgb(2, 2, 56);
+   
+}
+
+.col-md-5 hr {
+    color: $color_texto;
+}
+.card-text {
+    font-size:20px;
+  
+}
+
+
+/* CARD images */
+
+.row {
+   background-color: $color_fondo;
+    padding-bottom: 3%;
+}
+
+.equipo-profesional h2 {
+    background-color: $color_fondo;
+    text-align:center;
+    padding-top: 2rem;
+}
+
+
+.colaboradores h3 {
+    background-color: $color_fondo;
+    text-align:left;
+    padding: 2rem;
+
+}
+.row-cols-md-6 {
+    background-color: $color_fondo;
+    margin-bottom: 5px;
+}
+.estilo {
+    margin: 8rem;
+    width: 28rem;
+    
+   
+ }
+ /* CARD FUTBOL */
+
+.container-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+.cat {
+    padding: 2rem;
+
+  
+
+}
+.categoria {
+    width: 19rem;
+    margin-top: 2rem;
+    border: 1px solid #7e7e7e;
+
+
+
+}
+
+.card-link {
+    text-decoration: none;
+    color: #7e7e7e;
+
+}
+
+
+

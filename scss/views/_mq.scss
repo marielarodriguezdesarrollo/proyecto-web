@@ -1,0 +1,46 @@
+/* CARD TEXT */
+@media screen and ( max-width: 767px) {
+    .card-text {
+       font-size: 15px;
+    } 
+    h1 {
+       
+        font-size: 20px;
+    } 
+    
+ }
+  /* el logo no se va a mostrar cuando sea menor a 767px*/
+  @media screen and ( max-width: 767px) {
+    .navbar-brand {
+        display: none;
+    } 
+    h4 {
+        display: none;
+    } 
+    
+ }
+ //footer
+
+@media screen and ( max-width: 767px) {
+    .experiencia .row div {
+        border-top: 3px solid #CCC;
+        border-bottom: 3px solid #CCC;  
+    } 
+    
+ }
+
+@media screen and ( max-width: 767px) {
+    .columna img {
+        width: 40%;
+        
+       
+    } 
+    
+ }
+ @media screen and ( min-width: 767px) {
+    .columna img {
+        width: 80%;
+       
+    } 
+    
+ }

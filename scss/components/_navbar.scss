@@ -1,0 +1,33 @@
+/* BARRA DE NAVEGACION */
+header {
+    background-color:rgb(3, 3, 79);
+    
+}
+.navbar-nav a {
+    color: $color_texto;
+}
+.navbar {
+    padding: 2rem;
+}
+.dropdown-menu a {
+    color: black;
+
+}
+h4 {
+    color: yellow;
+}
+
+.navbar-collapse {
+
+    align-items: center;
+    justify-content: space-between;
+   
+   
+ }
+ .navbar-toggler {
+    color:$color_texto;
+ }
+ .navbar-toggler-icon {
+    color: $color_texto;
+ }
+

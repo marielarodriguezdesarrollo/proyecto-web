@@ -1,0 +1,31 @@
+
+.btn-primary {
+    margin: 10px;
+    background-color: rgb(3, 3, 79);
+    border-color:black;
+  
+    
+}
+.conteiner {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+@mixin boton {
+    background-color: $color_fondo;
+    padding: 1rem;
+    border: 0px;
+    color: black;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+.boton-enviar {
+    @include boton;
+    
+}
+.boton-cancelar {
+    @include boton;
+    
+}
