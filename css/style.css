@@ -44,7 +44,7 @@ body {
 }
 .btn-primary {
   margin: 10px;
-  background-color: rgb(3, 3, 79);
+  background-color: rgb(14, 14, 112);
   border-color: black;
 }
 
@@ -61,6 +61,7 @@ body {
   color: black;
   margin-right: 15px;
   border-radius: 10px;
+  margin: 1rem;
 }
 
 .boton-cancelar {
@@ -70,6 +71,7 @@ body {
   color: black;
   margin-right: 15px;
   border-radius: 10px;
+  margin: 1rem;
 }
 
 /* CARD */
@@ -142,11 +144,11 @@ body {
 
 /* BARRA DE NAVEGACION */
 header {
-  background-color: rgb(3, 3, 79);
+  background-color: rgb(14, 14, 112);
 }
 
 .navbar-nav {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 
@@ -287,18 +289,21 @@ h4 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
 }
 .servicios p {
   font-size: 20px;
 }
 
 .tecnificacion-texto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: rgb(80, 16, 16);
   text-align: center;
   color: #fff;
   width: 600px;
-  height: auto;
-  padding-top: 6rem;
+  height: 32rem;
 }
 .tecnificacion-texto hr {
   width: 80%;

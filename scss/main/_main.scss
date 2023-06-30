@@ -47,6 +47,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 
     p {
         font-size: 20px;
@@ -54,12 +55,16 @@
 }
 
   .tecnificacion-texto { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
      background-color: rgb(80, 16, 16);
      text-align: center; 
      color: $color_texto; 
      width: 600px;
-     height: auto;
-     padding-top: 6rem;
+     height: 32rem;
+    
+
 
      hr {
         width: 80%;

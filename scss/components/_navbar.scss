@@ -1,18 +1,20 @@
 /* BARRA DE NAVEGACION */
 header {
-    background-color:rgb(3, 3, 79);
+    background-color:rgb(14, 14, 112);
   
     
 }
 .navbar-nav {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     
  
 }
 .navbar-nav a {
     color: $color_texto;
+
 }
+
 .navbar {
     padding: 2rem;
 }
