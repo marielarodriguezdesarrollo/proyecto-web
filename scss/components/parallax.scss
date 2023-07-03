@@ -1,27 +1,33 @@
 .parallax-header {
     background: #000;
     background-image: linear-gradient(to right, rgb(0 0 0 / .5), rgb(0 0 0 / .5)), url("../../imagenes/Playing-Football.webp");
-                           
-   
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   
 }
+
 .header-content {
     padding: 100px 0 150px 0;
 }
 .content {
     margin-top: -80px;
-    background: #fff;
+    background: #ffffff;
     box-shadow: 0 0 20px -6px rgba(0, 0, 0, 0.2);
 }
 .content .left {
     padding-top: 20px;
+.left p {
+ 
+
+    font-family: 'Fira Sans Condensed', sans-serif;
+
+}
 }
 .content .right {
     padding: 0px;
+   
 }
 .text-justify {
     text-align: justify;

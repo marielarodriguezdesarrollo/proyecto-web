@@ -3,6 +3,12 @@
     border: 0px;
   
 }
+.categoria:hover {
+    transform: scale(1.1);
+  }
+  .categoria {
+    transition: transform 0.5s;
+  }
 
 
 .col-md-5 {
@@ -30,6 +36,11 @@
     background-color: $color_fondo;
     text-align:center;
     padding-top: 2rem;
+    font-family: 'Poppins', sans-serif;
+    .p {
+      
+    font-family: 'Poppins', sans-serif;
+    }
 }
 
 

@@ -11,6 +11,7 @@
  }
  .footer {
     background-color: black;
+    padding-top: 4rem;
  }
 
 .experiencia .row div {
@@ -55,10 +56,17 @@
 
     a {
         color: $color_texto;
+       
     }
 
   
 }
+.bi-facebook:hover {
+    transform: scale(1.1);
+  }
+  .bi-facebook{
+    transition: transform 0.5s;
+  }
 
 .telefono {
     color: rgb(251, 251, 108);

@@ -25,7 +25,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(to right, rgb(0 0 0 / .5), rgb(0 0 0 / .5)), url("../../imagenes/servicios-banner-02.jpg");
+    background-image: linear-gradient(to right, rgba(0 0 0 / .5), rgba(0 0 0 / .5)), url("../../imagenes/servicios-banner-02.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -53,24 +53,81 @@
         font-size: 20px;
     }
 }
-
-  .tecnificacion-texto { 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-     background-color: rgb(80, 16, 16);
-     text-align: center; 
-     color: $color_texto; 
-     width: 600px;
-     height: 32rem;
-    
-
-
-     hr {
-        width: 80%;
-        text-align: center;
-     }
-    
-  }
+.tecni {
+    padding: 0px;
+    background-color: rgb(94, 12, 12);
+    color: white;
+    height: 30rem;
  
+}
 
+.porteros {
+    width: 100%;
+    height: 30rem;
+    background-image: url(../../imagenes/porteros.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+.jugadores {
+    width: 100%;
+    height: 30rem;
+    background-image: url(../../imagenes/tecni.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+.campus {
+    width: 100%;
+    height: 30rem;
+    background-image: url(../../imagenes/campus.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+.psicologia {
+    width: 100%;
+    height: 30rem;
+    background-image: url(../../imagenes/psicologia.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+.dietista {
+    width: 100%;
+    height: 30rem;
+    background-image: url(../../imagenes/dietista.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+.fisioterapia {
+    width: 100%;
+    height: 30rem;
+    background-image: url(../../imagenes/fisio.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+.preparacion {
+    width: 100%;
+    height: 30rem;
+    background-image: url(../../imagenes/preparacion.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
