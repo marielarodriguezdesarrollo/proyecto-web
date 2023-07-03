@@ -195,7 +195,7 @@ h4 {
 
 .parallax-header {
   background: #000;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../imagenes/Playing-Football.webp");
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../imagenes/Playing-Football.webp");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -331,7 +331,7 @@ h4 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../imagenes/servicios-banner-02.webp");
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../imagenes/servicios-banner-02.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -369,7 +369,7 @@ h4 {
 .porteros {
   width: 100%;
   height: 30rem;
-  background-image: url(../../imagenes/porteros.webp);
+  background-image: url(../imagenes/porteros.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -379,7 +379,7 @@ h4 {
 .jugadores {
   width: 100%;
   height: 30rem;
-  background-image: url(../../imagenes/tecni.webp);
+  background-image: url(../imagenes/tecni.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -389,7 +389,7 @@ h4 {
 .campus {
   width: 100%;
   height: 30rem;
-  background-image: url(../../imagenes/campus.webp);
+  background-image: url(../imagenes/campus.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -399,7 +399,7 @@ h4 {
 .psicologia {
   width: 100%;
   height: 30rem;
-  background-image: url(../../imagenes/psicologia.webp);
+  background-image: url(../imagenes/psicologia.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -409,7 +409,7 @@ h4 {
 .dietista {
   width: 100%;
   height: 30rem;
-  background-image: url(../../imagenes/dietista.webp);
+  background-image: url(../imagenes/dietista.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -419,7 +419,7 @@ h4 {
 .fisioterapia {
   width: 100%;
   height: 30rem;
-  background-image: url(../../imagenes/fisio.webp);
+  background-image: url(../imagenes/fisio.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -429,7 +429,7 @@ h4 {
 .preparacion {
   width: 100%;
   height: 30rem;
-  background-image: url(../../imagenes/preparacion.webp);
+  background-image: url(../imagenes/preparacion.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
